@@ -22,9 +22,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
 I am a final-year Ph.D. candidate in Electrical & Computer Engineering at Stevens Institute of Technology (expected May 2027), with nearly a decade of experience spanning hands-on electrical installation, power systems, power electronics, and advanced control. My research focuses on dynamic modeling and distributed control of AC/DC microgrids and inverter-based resources, turning rigorous theory — LMI optimization, dissipativity, and stability analysis — into practical solutions that improve grid reliability.
