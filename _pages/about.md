@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Ph.D. Candidate, Electrical & Computer Engineering, Stevens Institute of Technology
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Ph.D. Candidate, Electrical & Computer Engineering</p>
+    <p>Stevens Institute of Technology</p>
+    <p>Hoboken, NJ, USA</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a final-year Ph.D. candidate in Electrical & Computer Engineering at Stevens Institute of Technology (expected May 2027), with nearly a decade of experience spanning hands-on electrical installation, power systems, power electronics, and advanced control. My research focuses on dynamic modeling and distributed control of AC/DC microgrids and inverter-based resources, turning rigorous theory — LMI optimization, dissipativity, and stability analysis — into practical solutions that improve grid reliability.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I completed my M.Sc. in Electrical Control Engineering at Shahid Rajaee University, and my B.Sc. in Electrical Power Engineering at Islamic Azad University, both in Tehran, Iran. I'm proficient in MATLAB/Simulink, Python, Typhoon HIL, and PSCAD, and have published on distributed control and communication co-design for microgrids at venues including CDC, ACC, and the European Control Conference.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside the lab, I serve as President of the Iranian Association at Stevens and as a reviewer for the IEEE Power & Energy Society.
